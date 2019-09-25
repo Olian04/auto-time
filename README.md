@@ -8,5 +8,5 @@ Automatically convert timestamps into the users timezone.
 
 ![](./assets/demo.png)
 
-On cursor hover: 
+**On cursor hover:** <br>
 ![](./assets/demo_hover.png)
