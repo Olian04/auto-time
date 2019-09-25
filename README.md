@@ -7,3 +7,5 @@ Automatically convert timestamps into the users timezone.
 ```
 
 ![](./assets/demo.png)
+
+![](./assets/demo_hover.png)
