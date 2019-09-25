@@ -2,14 +2,8 @@
 Automatically convert timestamps into the users timezone.
 
 ```html
-<p>
-    Daily reset happens at 
-    <auto-time 
-        time="1569369600"
-        format="hh:mm z"
-        ></auto-time>
-    The following things are affected by the daily reset:
-</p> 
+<p>Daily reset happens at <span data-auto-time="1569369600"></span></p>
+<script src="auto-time.js"></script>
 ```
 
 ![](./assets/demo.png)
